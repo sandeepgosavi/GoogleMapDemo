@@ -1,0 +1,1 @@
+D:\NativeScript\googlemapdemo\platforms\android\src\main\assets\app\app.component.js

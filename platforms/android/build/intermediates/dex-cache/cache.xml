@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\googlemapdemo\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fea98d375ec6edba3b9192dfecb16864c8c1fb10">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\binding-generator_174d099e02fdaa33a0d108cb4b762b723d005859.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-media-compat-25.0.0_12c5e98f2f38d842e2fdce6be2f390285f6cf780.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\internal_impl-25.0.0_0996f65e23ed25e5aab5f20e7ccf4c93fa73914a.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-base-9.8.0_9dba7a10561c2e61be8b7d9c6101ec6771999607.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-25.0.0_296f504b96f5a90b6a657804dc9e91cecbe3235d.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-25.0.0_b52c133fdb6d83bca38530ee43d2f65a1c95e52a.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\googlemapdemo\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="791326bdf152dc35a200aea2938d5e5f2af0c81a">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\googlemapdemo-runtime-unspecified_4c4e7ae8d4bd1b7a240ee892905d2694278fd9e9.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-maps-9.8.0_4b754e735e08a2a04bd8a059ddf717e2b6012ab1.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9eec987a0056adc79d607b32e7e1c41997a434a7">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-widgets-release_4ed6419dc4122d30219cf6f69cfdea9df4aecc6e.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\internal_impl-25.0.0_8053145b5ceaaa303a72e7df2a957fb0b464390f.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\internal_impl-25.0.0_b0d00d489d7c6fcc1d8fadb2633cf89515184891.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\internal_impl-25.0.0_f07b93e191b19d038cb5739a3091e692e2f54bdc.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-basement-9.8.0_f361eb4d45b28dada52111f0535084a70fdc18a6.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-compat-25.0.0_cabd345c47bcf8e1f1074de2c76a518e088a8736.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-tasks-9.8.0_975abf824921f72a3a14446ef818698552c31440.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-ui-25.0.0_54b5793ebe53f72c89b1ba7037d1223459760f91.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\internal_impl-25.0.0_e33696b5b162426c68da4106e3ae5906aa6ebedb.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-recyclerview-v7-25.0.0_fd068fe67037b840b539a065975f3cfe548fc2cd.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-fragment-25.0.0_743c5fcabb1af440cc5705f98ff20437e7b3513d.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-vector-drawable-25.0.0_01484aa787b470bf548e28c996fe571c435c2758.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-transition-25.0.0_0154b7c4345871d5e0ba6d49858c89c2346591e1.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-utils-25.0.0_c8f162249a96bb13fc9ad5818059295637c918f1.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-25.0.0_a6c84f6919cc35b7d3c111d4549883962f0adf15.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-design-25.0.0_dec78ab1bea32a2fd277a8fdc877248200ef720c.jar" />
+    </item>
+    <item
+        jar="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\NativeScript\googlemapdemo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-appcompat-v7-25.0.0_e17ab6f420d158bfe1a95bb82af90e5d62a60602.jar" />
+    </item>
+
+</items>

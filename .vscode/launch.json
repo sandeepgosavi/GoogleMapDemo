@@ -1,0 +1,66 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        // {
+        //     "name": "Launch on Android device",
+        //     "type": "nativescript",
+        //     "request": "launch",
+        //     "platform": "android",
+        //     "appRoot": "${workspaceRoot}",
+        //     "sourceMaps": true,
+        //     "tnsArgs": [
+        //         "--device 57669c03"
+        //     ]
+        // },
+        {
+            "name": "Sync on iOS",
+            "type": "nativescript",
+            "request": "launch",
+            "platform": "ios",
+            "appRoot": "${workspaceRoot}",
+            "sourceMaps": true
+        },
+        {
+            "name": "Launch on iOS",
+            "type": "nativescript",
+            "request": "launch",
+            "platform": "ios",
+            "appRoot": "${workspaceRoot}",
+            "sourceMaps": true,
+            "rebuild": true
+        },
+        {
+            "name": "Attach on iOS",
+            "type": "nativescript",
+            "request": "attach",
+            "platform": "ios",
+            "appRoot": "${workspaceRoot}",
+            "sourceMaps": true
+        },
+        {
+            "name": "Sync on Android",
+            "type": "nativescript",
+            "request": "launch",
+            "platform": "android",
+            "appRoot": "${workspaceRoot}",
+            "sourceMaps": true
+        },
+        {
+            "name": "Launch on Android",
+            "type": "nativescript",
+            "request": "launch",
+            "platform": "android",
+            "appRoot": "${workspaceRoot}",
+            "sourceMaps": true,
+            "rebuild": true
+        },
+        {
+            "name": "Attach on Android",
+            "type": "nativescript",
+            "request": "attach",
+            "platform": "android",
+            "appRoot": "${workspaceRoot}",
+            "sourceMaps": true
+        }
+    ]
+}

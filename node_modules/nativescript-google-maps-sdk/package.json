@@ -1,0 +1,69 @@
+{
+  "name": "nativescript-google-maps-sdk",
+  "version": "1.4.2",
+  "description": "Google Maps SDK plugin for Nativescript",
+  "main": "map-view",
+  "typings": "map-view.d.ts",
+  "nativescript": {
+    "platforms": {
+      "android": "1.5.1",
+      "ios": "1.5.1"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dapriett/nativescript-google-maps-sdk.git"
+  },
+  "keywords": [
+    "Nativescript",
+    "Google",
+    "Maps",
+    "API",
+    "SDK"
+  ],
+  "author": {
+    "name": "Dan Prietti",
+    "email": "dprietti@gmail.com",
+    "url": "https://github.com/dapriett"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dapriett/nativescript-google-maps-sdk/issues"
+  },
+  "homepage": "https://github.com/dapriett/nativescript-google-maps-sdk#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "tns-core-modules": "^1.5.1",
+    "typescript": "^1.8.0"
+  },
+  "gitHead": "ab61291140405f4698fba49a479fe7c1724ad803",
+  "_id": "nativescript-google-maps-sdk@1.4.2",
+  "_shasum": "9ec876e5307b36a51bc139d14b36ee60de7a47f3",
+  "_from": "nativescript-google-maps-sdk@latest",
+  "_npmVersion": "3.10.8",
+  "_nodeVersion": "6.9.1",
+  "_npmUser": {
+    "name": "dprietti",
+    "email": "npm@prietti.com"
+  },
+  "dist": {
+    "shasum": "9ec876e5307b36a51bc139d14b36ee60de7a47f3",
+    "tarball": "https://registry.npmjs.org/nativescript-google-maps-sdk/-/nativescript-google-maps-sdk-1.4.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "dprietti",
+      "email": "npm@prietti.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-google-maps-sdk-1.4.2.tgz_1481687658498_0.677895721513778"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nativescript-google-maps-sdk/-/nativescript-google-maps-sdk-1.4.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
